@@ -11,7 +11,7 @@
   ],
   "rpository": {
     "type": "Git",
-    "url": "git+https://github.com/blackwuxin/testdemo.gi"
+    "url": "git+https://github.com/blackwuxin/testdemo.git"
   },
   "author": "zhg",
   "license": "MIT"
